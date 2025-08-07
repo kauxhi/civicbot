@@ -15,7 +15,7 @@ CivicBot enables city officials and planning teams to:
 
 ## Tech Stack
 
-- **LLM API:** Groq (Mistral-7B-Instruct)
+- **LLM API:** Groq
 - **Framework:** Streamlit
 - **RAG Engine:** Custom vector search using `cosine_similarity`
 - **Embedding Logic:** Custom embedding pipeline
