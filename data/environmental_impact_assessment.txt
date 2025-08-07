@@ -1,0 +1,184 @@
+ENVIRONMENTAL IMPACT ASSESSMENT
+Green Haven Park Development Project
+Westside District, City of Westside
+Assessment Date: March 2024
+Prepared by: Environmental Solutions Consulting, LLC
+
+=== PROJECT OVERVIEW ===
+Project Name: Green Haven Park Development
+Location: 1500 Westside Boulevard, Westside District
+Project Size: 12 acres
+Current Land Use: Vacant lot with scattered vegetation
+Proposed Use: Public recreational park with native landscaping
+Assessment Period: January - March 2024
+
+=== AIR QUALITY ANALYSIS ===
+BASELINE CONDITIONS:
+- Current air quality index: 45-65 (Good to Moderate)
+- Primary pollutants: PM2.5, ground-level ozone
+- Existing vegetation: 15% coverage, mostly non-native grasses
+
+CONSTRUCTION PHASE IMPACT:
+- Duration: 18 months (June 2024 - December 2025)
+- Temporary dust generation from soil disturbance
+- Equipment emissions: diesel particulates from construction vehicles
+- Mitigation measures: water spraying for dust control, equipment maintenance standards
+
+POST-CONSTRUCTION IMPACT:
+- NO SIGNIFICANT NEGATIVE IMPACT EXPECTED
+- Projected air quality improvement due to increased vegetation
+- Estimated 25% increase in local oxygen production
+- Reduced urban heat island effect in immediate area
+- Carbon sequestration: approximately 2.3 tons CO2/year once mature
+
+=== NOISE LEVEL ASSESSMENT ===
+BASELINE NOISE LEVELS:
+- Ambient daytime: 48-52 dB (residential area standard)
+- Peak traffic hours: 58-62 dB
+- Nighttime levels: 38-42 dB
+
+CONSTRUCTION PHASE NOISE:
+- TEMPORARY INCREASE DURING CONSTRUCTION
+- Projected levels: 65-75 dB during active work
+- Construction hours: 7:00 AM - 6:00 PM weekdays, 8:00 AM - 5:00 PM Saturdays
+- No construction on Sundays or federal holidays
+- Equipment specifications require noise-reducing mufflers
+- Noise barriers installed along residential property lines
+
+POST-CONSTRUCTION NOISE:
+- Expected reduction in ambient noise levels
+- Natural sound buffering from tree plantings
+- Estimated 3-5 dB reduction from current baseline
+- Improved acoustic environment for surrounding residences
+
+=== BIODIVERSITY IMPACT ===
+EXISTING ECOSYSTEM:
+- Limited biodiversity due to vacant lot status
+- Occasional bird species: American Robin, House Sparrow, Mourning Dove
+- Small mammal presence: Urban-adapted squirrels, occasional rabbits
+- Invasive plant species: 40% of existing vegetation
+
+NATIVE SPECIES PLANTING PROGRAM:
+- DESIGNED TO SUPPORT LOCAL POLLINATORS
+- Target species: Monarch butterflies, native bees, hummingbirds
+- Plant selection based on regional ecosystem requirements
+- Elimination of invasive species during construction
+- Integration with regional wildlife corridor planning
+
+Expected Wildlife Benefits:
+- 300% increase in pollinator habitat
+- Seasonal habitat for migrating bird species
+- Native seed source for surrounding area restoration
+- Educational opportunities for species identification
+
+POLLINATOR SUPPORT FEATURES:
+- Dedicated pollinator garden: 0.5 acres
+- Bloom succession planning for season-long nectar sources
+- Native milkweed plantings for Monarch butterfly lifecycle
+- Pesticide-free maintenance practices
+- Integrated pest management protocols
+
+=== WATER RUNOFF MANAGEMENT ===
+EXISTING DRAINAGE CONDITIONS:
+- Current impervious surface coverage: 15%
+- Existing runoff coefficient: 0.25
+- Drainage issues during heavy precipitation events
+- Limited natural infiltration capacity
+
+IMPROVED STORMWATER MANAGEMENT:
+- PERMEABLE SURFACES THROUGHOUT PARK DESIGN
+- Projected impervious surface reduction to 8%
+- New runoff coefficient: 0.15 (40% improvement)
+
+RAIN GARDEN IMPLEMENTATION:
+- Location: Three strategic locations throughout park
+- Total rain garden area: 2,400 square feet
+- Designed for 2-year, 24-hour storm events
+- Native plant species selected for water filtration
+- Bioretention soil mixture specifications included
+
+Green Infrastructure Features:
+- Pervious concrete pathways: 85% of walkway surfaces
+- Native grass swales along park perimeter
+- Underground infiltration chambers: 4 locations
+- Existing mature tree preservation (where feasible)
+- Integration with city-wide green infrastructure plan
+
+Water Quality Benefits:
+- Estimated 60% reduction in stormwater runoff volume
+- Improved filtration of urban pollutants
+- Groundwater recharge enhancement
+- Reduced strain on municipal storm sewer system
+
+=== CARBON FOOTPRINT ANALYSIS ===
+CONSTRUCTION PHASE EMISSIONS:
+- Equipment operation: estimated 45 tons CO2 equivalent
+- Material transportation: estimated 12 tons CO2 equivalent
+- Soil disturbance carbon release: estimated 8 tons CO2 equivalent
+- Total construction emissions: 65 tons CO2 equivalent
+
+POST-CONSTRUCTION CARBON BENEFITS:
+- ESTIMATED ANNUAL REDUCTION: 18 TONS CO2/YEAR
+- Tree carbon sequestration: 12 tons CO2/year (mature growth)
+- Reduced energy consumption (cooling effect): 4 tons CO2/year
+- Reduced vehicle emissions (walkable recreation): 2 tons CO2/year
+- Net carbon positive impact after 4 years of operation
+
+TREE PLANTING SPECIFICATIONS:
+- Total trees planted: 485 trees (mixed species)
+- Mature canopy coverage: 35% of total park area
+- Carbon sequestration rate: 25 pounds CO2 per tree per year average
+- 30-year projected sequestration: 540 tons CO2 equivalent
+
+=== SOIL AND GEOLOGY ===
+Soil Composition Analysis:
+- Primary soil type: Clay loam with moderate drainage
+- pH levels: 6.2-6.8 (suitable for native plantings)
+- Contamination screening: No hazardous materials detected
+- Compaction mitigation required in high-traffic areas
+
+Geological Considerations:
+- Stable subsurface conditions for park infrastructure
+- No significant slope stability concerns
+- Adequate bearing capacity for planned structures
+- Drainage tile installation recommended in low-lying areas
+
+=== COMPLIANCE AND PERMITS ===
+Environmental Permits Required:
+- Stormwater Construction General Permit
+- Air Quality Construction Permit
+- Tree Removal Permits (minimal removal needed)
+- Wetland Delineation (none present)
+
+Regulatory Compliance:
+- National Environmental Policy Act (NEPA) - Categorically Excluded
+- Clean Water Act Section 404 - Not Applicable
+- Endangered Species Act - No critical habitat impact
+- Migratory Bird Treaty Act - Construction timing restrictions
+
+=== MONITORING AND MITIGATION ===
+Construction Phase Monitoring:
+- Weekly air quality measurements
+- Daily noise level documentation
+- Dust control effectiveness tracking
+- Erosion and sediment control inspection
+
+Post-Construction Monitoring:
+- Annual biodiversity surveys
+- Stormwater system performance evaluation
+- Tree health and growth rate assessment
+- Community feedback on environmental benefits
+
+=== RECOMMENDATIONS ===
+1. Proceed with project as designed with noted mitigation measures
+2. Implement comprehensive native species education program
+3. Establish long-term ecological monitoring protocol
+4. Consider expansion of rain garden network in future phases
+5. Integrate with regional habitat connectivity planning
+
+Report Prepared By:
+Dr. Sarah Mitchell, Senior Environmental Scientist
+Environmental Solutions Consulting, LLC
+License #ES-2024-447
+Phone: (555) 234-5678
+Email: smitchell@envsolutions.com
