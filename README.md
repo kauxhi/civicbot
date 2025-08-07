@@ -48,4 +48,4 @@ CIVICBOT/
 ├── app.py                           
 ├── .env                           
 └── requirements.txt                          
-├── requirements.txt 
+├── requirements.txt
