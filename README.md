@@ -37,7 +37,6 @@ CIVICBOT/
 ├── models/                          
 │   ├── embeddings.py              
 │   └── llm.py                     
-│
 ├── utils/                           
 │   ├── logger.py                 
 │   ├── prompt_engineering.py   
