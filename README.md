@@ -24,7 +24,7 @@ CivicBot enables city officials and planning teams to:
 ## Folder Structure
 CIVICBOT/
 │
-├── config/                         
+├── config/                          
 │   └── config.py                   
 │
 ├── data/                            
@@ -34,16 +34,18 @@ CIVICBOT/
 │   ├── park_blueprint_summary.txt
 │   └── zoning_regulation_excerpt.txt
 │
-├── models/                          
-│   ├── embeddings.py              
-│   └── llm.py                     
-├── utils/                           
-│   ├── logger.py                 
-│   ├── prompt_engineering.py   
-│   ├── rag_utils.py              
-│   ├── response_modes.py         
-│   └── web_search.py             
+├── models/                     
+│   ├── embeddings.py
+│   └── llm.py
 │
-├── app.py                         
-├── .env                            
+├── utils/                   
+│   ├── logger.py
+│   ├── prompt_engineering.py
+│   ├── rag_utils.py
+│   ├── response_modes.py
+│   └── web_search.py
+│
+├── app.py                           
+├── .env                           
+└── requirements.txt                          
 ├── requirements.txt 
