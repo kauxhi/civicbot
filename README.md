@@ -1,1 +1,1 @@
-# civicbot
+# CivicBot: Urban Planning Feedback Assistant
