@@ -22,6 +22,7 @@ CivicBot enables city officials and planning teams to:
 - **File Monitoring:** `watchdog` for real-time document ingestion
 
 ## Folder Structure
+```text
 CIVICBOT/
 │
 ├── config/                          
@@ -34,11 +35,11 @@ CIVICBOT/
 │   ├── park_blueprint_summary.txt
 │   └── zoning_regulation_excerpt.txt
 │
-├── models/                     
+├── models/                          
 │   ├── embeddings.py
 │   └── llm.py
 │
-├── utils/                   
+├── utils/                           
 │   ├── logger.py
 │   ├── prompt_engineering.py
 │   ├── rag_utils.py
@@ -46,6 +47,6 @@ CIVICBOT/
 │   └── web_search.py
 │
 ├── app.py                           
-├── .env                           
-└── requirements.txt                          
-├── requirements.txt
+├── .env                          
+└── requirements.txt            
+
